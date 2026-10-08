@@ -1,0 +1,91 @@
+skill_name,category
+Python,Languages
+Java,Languages
+C++,Languages
+C#,Languages
+C,Languages
+JavaScript,Languages
+TypeScript,Languages
+SQL,Languages
+Go,Languages
+Rust,Languages
+PHP,Languages
+Ruby,Languages
+Swift,Languages
+Kotlin,Languages
+R,Languages
+HTML,Languages
+CSS,Languages
+Bash,Languages
+Shell,Languages
+FastAPI,Frameworks
+Flask,Frameworks
+Django,Frameworks
+React,Frameworks
+Angular,Frameworks
+Vue,Frameworks
+Node.js,Frameworks
+Express,Frameworks
+Spring Boot,Frameworks
+PyTorch,Frameworks
+TensorFlow,Frameworks
+Keras,Frameworks
+Scikit-Learn,Frameworks
+Pandas,Frameworks
+NumPy,Frameworks
+Next.js,Frameworks
+Tailwind CSS,Frameworks
+Bootstrap,Frameworks
+Streamlit,Frameworks
+Flutter,Frameworks
+PostgreSQL,Databases
+MySQL,Databases
+MongoDB,Databases
+Redis,Databases
+SQLite,Databases
+Oracle,Databases
+Cassandra,Databases
+DynamoDB,Databases
+Elasticsearch,Databases
+Firebase,Databases
+Docker,DevOps
+Kubernetes,DevOps
+AWS,DevOps
+Azure,DevOps
+GCP,DevOps
+Google Cloud,DevOps
+CI/CD,DevOps
+Git,DevOps
+GitHub,DevOps
+GitLab,DevOps
+Linux,DevOps
+Terraform,DevOps
+Ansible,DevOps
+Jenkins,DevOps
+Nginx,DevOps
+Apache,DevOps
+REST API,Concepts
+RESTful APIs,Concepts
+GraphQL,Concepts
+Microservices,Concepts
+Machine Learning,Concepts
+Deep Learning,Concepts
+Natural Language Processing,Concepts
+NLP,Concepts
+Computer Vision,Concepts
+Object-Oriented Programming,Concepts
+OOP,Concepts
+Data Structures,Concepts
+Algorithms,Concepts
+System Design,Concepts
+Agile,Concepts
+Scrum,Concepts
+Unit Testing,Concepts
+Test-Driven Development,Concepts
+TDD,Concepts
+ETL,Concepts
+Data Pipelines,Concepts
+Big Data,Concepts
+Spark,Concepts
+Hadoop,Concepts
+Kafka,Concepts

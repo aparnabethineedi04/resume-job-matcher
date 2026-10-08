@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Pytest / testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary uploads (privacy guarantee)
+temp_uploads/
+*.pdf
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
